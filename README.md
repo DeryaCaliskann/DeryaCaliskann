@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeryaCaliskann
+- 👋 Hi, I’m Derya Caliskan
 -- 🌱 I’m currently learning ...
   
 
